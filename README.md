@@ -1,1 +1,1 @@
-These python files are for generating "INSERT INTO TABLE tableName VALUES" SQL statements by reading data from a file, the extension of which the user has to specify. These files use the libraries os and pandas.
+These python codes are for generating "INSERT INTO TABLE tableName VALUES" SQL statements by reading data from a .csv file. These python codes use the libraries os and pandas.

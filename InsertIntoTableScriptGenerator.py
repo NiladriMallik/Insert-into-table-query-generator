@@ -2,7 +2,7 @@
 import os
 import pandas as pd
 
-extension = input("Enter the file extension to process: ")
+extension = '.csv'
 
 #create a list of csv files and get the path+name of the first file from the list
 file_name = 'src/' + [file for file in os.listdir('src') if file.endswith(extension)][0]
